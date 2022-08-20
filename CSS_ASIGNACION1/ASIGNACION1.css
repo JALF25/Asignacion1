@@ -1,0 +1,46 @@
+body{
+    background-color:rgb(233, 233, 224);
+}
+.princ{
+    display:flex;
+    background-color:rgb(230, 165, 45);
+}
+.conte{
+    display:flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+.img1{
+    padding: 15px;
+    width: 300px;
+    border-radius: 25px;
+    margin-left: auto;
+}
+.img2{
+    width:100px;
+    height: 100px;
+}
+.sec{
+    text-align: center;
+    background-color:rebeccapurple;
+    height:210px;
+}
+.carousel-inner{
+    padding-top: auto;
+}
+.butt1{
+    width: 200px;
+    height: 25px;
+    color:aliceblue;
+    background-color: black;
+}
+.butt1:hover{
+    color:rgb(0, 0, 0);
+    background-color:yellow;
+}
+.h{
+    height: 200px;
+}
+#carouselExampleIndicators{
+    padding: auto;
+}
